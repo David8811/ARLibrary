@@ -1,0 +1,6 @@
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Release\ExampleTestAppWithCSWrapper.exe.config
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Release\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Release\ExampleTestAppWithCSWrapper.pdb
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Release\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Release\ExampleTestAppWithCSWrapper.pdb
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Release\ExampleTestAppWithCSWrapper.csprojResolveAssemblyReference.cache

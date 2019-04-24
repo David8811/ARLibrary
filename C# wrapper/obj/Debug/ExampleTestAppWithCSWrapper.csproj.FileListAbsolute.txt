@@ -1,0 +1,4 @@
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Debug\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Debug\ExampleTestAppWithCSWrapper.pdb
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Debug\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Debug\ExampleTestAppWithCSWrapper.pdb

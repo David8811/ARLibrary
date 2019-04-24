@@ -1,0 +1,14 @@
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Release\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Release\ExampleTestAppWithCSWrapper.exe.config
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Release\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\bin\Release\ExampleTestAppWithCSWrapper.pdb
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Release\ExampleTestAppWithCSWrapper.pdb
+H:\Escuela\Kinetic\Projects\ARLibrary\Info\HowToMarshalACppClassExamples\ExampleTestAppWithCSWrapper\obj\Release\GARWrapperTest.csprojResolveAssemblyReference.cache
+H:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\bin\Release\ExampleTestAppWithCSWrapper.exe.config
+H:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\bin\Release\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\bin\Release\ExampleTestAppWithCSWrapper.pdb
+H:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\obj\Release\ExampleTestAppWithCSWrapper.exe
+H:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\obj\Release\ExampleTestAppWithCSWrapper.pdb
+G:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\bin\Release\ExampleTestAppWithCSWrapper.exe.config
+G:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\obj\Release\ExampleTestAppWithCSWrapper.exe
+G:\Escuela\Kinetic\Projects\apiRA\branches\development\sources\C# wrapper\obj\Release\ExampleTestAppWithCSWrapper.pdb
